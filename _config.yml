@@ -20,10 +20,10 @@ author: RANDOM MARKETING COMPANY
 ###############################################
 
 navbar-links:
-  О компании: "aboutme"
-  Ресурсы:
+  Оферта: "aboutme"
+  Ссылки:
     - TELEGRAM BOT: "https://t.me/all_in_one_gpt_models_robot"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - RATING: "https://huggingface.co/models"
  # Author's home: "https://deanattali.com"
 
 ################
@@ -126,7 +126,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "chatgpt, telegram bots, models, chatgpt free access, доступ к чатгпт, чатгпт"
 
 ######################################
 # --- Colours / background image --- #
