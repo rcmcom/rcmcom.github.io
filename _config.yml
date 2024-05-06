@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: CHATGPT WALLET
+title: IT Marketing company
 
 # Your name to show in the footer
 author: RANDOM MARKETING COMPANY
@@ -20,11 +20,20 @@ author: RANDOM MARKETING COMPANY
 ###############################################
 
 navbar-links:
-  Оферта: "aboutme"
-  Ссылки:
-    - TELEGRAM BOT: "https://t.me/all_in_one_gpt_models_robot"
-    - RATING: "https://huggingface.co/models"
- # Author's home: "https://deanattali.com"
+  О компании: "aboutme"
+  Деятельность:
+    - Доступ к топовым моделям chatgpt: "https://t.me/all_in_one_gpt_models_robot"
+    - Сбор аудиторий в TELEGRAM: "telegramextractor"
+    - Рекламные рассылки: "mailing"
+    - Разработка программ, сайтов и ботов на заказ: "development"
+    - Парсинг веб ресурсов: "parsing"
+    - Администрирование IT проектов: "devops"
+    - Услуги обработки данных и аналитика: "data"
+    - Обучение и менторинг: "mentor"
+  Документы:
+    - Оферта: "oferta"
+    - Политика конфиденциальности: "politic"  
+ # Author's home: "https://rcmcom.github.io"
 
 ################
 # --- Logo --- #
@@ -32,7 +41,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/gpt.jpg"
+avatar: "/assets/img/ava.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
