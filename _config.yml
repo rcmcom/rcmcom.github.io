@@ -22,14 +22,14 @@ author: RANDOM MARKETING COMPANY
 navbar-links:
   О компании: "aboutme"
   Деятельность:
-    - Доступ к топовым моделям chatgpt: "https://t.me/all_in_one_gpt_models_robot"
-    - Сбор аудиторий в TELEGRAM: "telegramextractor"
+    - Доступ к chatgpt: "https://t.me/all_in_one_gpt_models_robot"
+    - Сбор аудиторий: "telegramextractor"
     - Рекламные рассылки: "mailing"
-    - Разработка программ, сайтов и ботов на заказ: "development"
-    - Парсинг веб ресурсов: "parsing"
-    - Администрирование IT проектов: "devops"
-    - Услуги обработки данных и аналитика: "data"
-    - Обучение и менторинг: "mentor"
+    - Разработка программ: "development"
+    - Парсинг: "parsing"
+    - Администрирование: "devops"
+    - Аналитика: "data"
+    - Обучение: "mentor"
   Документы:
     - Оферта: "oferta"
     - Политика конфиденциальности: "politic"  
@@ -135,7 +135,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "chatgpt, telegram bots, models, chatgpt free access, доступ к чатгпт, чатгпт"
+keywords: "chatgpt, telegram bots, models, chatgpt free access, доступ к чатгпт, чатгпт, разработка, аналитика данных, искуксственный интеллект, java"
 
 ######################################
 # --- Colours / background image --- #
