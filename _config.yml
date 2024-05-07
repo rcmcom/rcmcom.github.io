@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: IT Marketing company
+title: Random Marketing Company
 
 # Your name to show in the footer
 author: RANDOM MARKETING COMPANY
@@ -20,19 +20,19 @@ author: RANDOM MARKETING COMPANY
 ###############################################
 
 navbar-links:
-  О компании: "aboutme"
-  Деятельность:
-    - Доступ к chatgpt: "https://t.me/all_in_one_gpt_models_robot"
-    - Сбор аудиторий: "telegramextractor"
-    - Рекламные рассылки: "mailing"
-    - Разработка программ: "development"
-    - Парсинг: "parsing"
-    - Администрирование: "devops"
-    - Аналитика: "data"
-    - Обучение: "mentor"
-  Документы:
-    - Оферта: "oferta"
-    - Политика конфиденциальности: "politic"  
+  о компании: "about"
+  деятельность:
+    - доступ к chatgpt: "https://t.me/all_in_one_gpt_models_robot"
+    - сбор аудиторий: "audience"
+    - рекламные рассылки: "mailing"
+    - разработка программ: "development"
+    - парсинг: "parsing"
+    - администрирование: "devops"
+    - аналитика: "data"
+    - обучение: "mentor"
+  документы:
+    - оферта: "oferta"
+    - политика конфиденциальности: "politic"  
  # Author's home: "https://rcmcom.github.io"
 
 ################
