@@ -23,11 +23,11 @@ navbar-links:
   о компании: "about"
   деятельность:
     - доступ к chatgpt: "https://t.me/all_in_one_gpt_models_robot"
-    - сбор аудиторий: "audience"
-    - рекламные рассылки: "mailing"
-    - разработка программ: "development"
+    - аудитории: "audience"
+    - рассылки: "mailing"
+    - разработка: "development"
     - парсинг: "parsing"
-    - администрирование: "devops"
+    - поддержка: "devops"
     - аналитика: "data"
     - обучение: "mentor"
   документы:
