@@ -32,6 +32,7 @@ navbar-links:
     - обучение: "mentor"
   документы:
     - оферта: "oferta"
+    - правила: "terms"
     - политика конфиденциальности: "policy"  
  # Author's home: "https://rcmcom.github.io"
 
