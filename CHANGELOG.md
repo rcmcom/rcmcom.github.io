@@ -13,7 +13,7 @@
 - Updated Yelp URL format - if you previously used the `yelp` social network config parameter, you might need to update the config value (#1259)
 - Added `title-on-all-pages` config setting, that adds the website title to all page titles (#1272)
 
-## v6.0.1 (2023-06-08)
+## v6.0.1 (2024-06-08)
 
 This version has been in the works for a few years. It includes several new features that were highly requested, numerous bug fixes, new documentation, and aggresively encourages migrating from the old Google Universal Analytics to the new Analytics 4.
 
@@ -55,7 +55,7 @@ This version has been in the works for a few years. It includes several new feat
 - Changed the width at which the navbar collapses to a higher threshold because most modern non-mobile browsers are >1000px
 
 
-## v5.0.0 (2020-09-15)
+## v5.0.0 (2024-09-15)
 
 One of the major changes in this version is that a lot of time was spent on rethinking the entire SEO and social media sharing model (how a page looks on eg. Google, Twitter, Facebok). It was redesigned to be more simple and customizable. The new documentation has a section dedicated to SEO and social media sharing of a page. Unfortunately some changes that are not backwards-compatible had to be made.
 
