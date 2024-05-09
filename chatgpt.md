@@ -1,7 +1,7 @@
 ---
 layout: page
 title: chatgpt
-subtitle: предоставление доступа к нейросетям chatgpt через телеграм бот "CHATGPT WALLET"
+subtitle: предоставление доступа к нейросетям chatgpt через телеграм бот __CHATGPT WALLET__
 ---
 
 ##Разблокируйте мощь AI с помощью Telegram-бота [CHATGPT WALLET](https://t.me/all_in_one_gpt_models_robot)
