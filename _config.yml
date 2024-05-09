@@ -22,7 +22,7 @@ author: rcmcom
 navbar-links:
   о компании: "about"
   деятельность:
-    - доступ к chatgpt: "https://t.me/all_in_one_gpt_models_robot"
+    - chatgpt: "chatgpt"
     - аудитории: "audience"
     - рассылки: "mailing"
     - разработка: "development"
